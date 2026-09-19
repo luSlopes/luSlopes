@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Lucas Lopes</h1>
 
-<!--
-**luSlopes/luSlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width=100%>
+  <tr>
+    <td width=70%>
+      <img src="athens_school.jpg" width=100% alt="Athens School Art">
+    </td>
+    <td valign="top">
+      <h2>About me</h2>
+      <p>I'am a Computer Science student and Software Developer in Brazil.</p>
+      <p>In love with knowledge and constant learning new things</p>
+      <h3>Areas of interest</h3>
+      <ul>
+        <li>Data structures and low-level implementations</li>
+        <li>Development of full-stack web application</li>
+        <li>Linear algebra and maths</li>
+        <li>APIs integration and scalable backend develop</li>
+      </ul>
+    <p>Currently studying the quantum cumputing universe</p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+## Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Typescript/Javascript, Python, C, Java
+- React, React-Router, NestJS, express, fastify, node, bun
+- PostgreSQL, MySQL, Mongodb, Redis, mongoose, prisma
+- Docker/Docker-compose, Git
